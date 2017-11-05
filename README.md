@@ -15,5 +15,5 @@ Usage
 Demo
 ----
 
-[Demo](icomoon/demo.html)
+[Live Demo](https://aaronpk.github.io/social-icons/icomoon/demo.html)
 
