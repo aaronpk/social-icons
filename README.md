@@ -12,4 +12,8 @@ Usage
 <i class="icon-indiewebcamp"></i>
 ```
 
+Demo
+----
+
+[Demo](icomoon/demo.html)
 
